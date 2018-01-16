@@ -10,7 +10,7 @@ ventana = Tk()
 ventana.title('Entradas')
 ventana.geometry("400x400")
 
-#Variables de Tkinter
+#Variables de Tkinter intVar booleanVar
 nombre = StringVar()
 apellidoP = StringVar()
 apellidoM = StringVar()
